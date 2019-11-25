@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyRollingBall</string>
+    <string name="start">がんばれ～！</string>
+    <string name="reset">リセット</string>
+    <string name="clear">クリアー！！！</string>
+    <string name="fail">ざんねん.</string>
+</resources>
